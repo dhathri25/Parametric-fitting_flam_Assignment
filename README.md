@@ -24,8 +24,7 @@ Minimum Error = 38006.91
 ## 🔹 Visualization
 The parameter fitting and curve visualization are done using **Desmos**.  
 You can view the complete graph and parameter behavior here:
-
-👉 [Click to Open Desmos Graph](https://www.desmos.com/calculator/rfj91yrxob)
+👉 [Click to Open Desmos Graph]([https://www.desmos.com/calculator/rfj91yrxob](https://www.desmos.com/calculator/djkm1objd4))
 
 ---
 
